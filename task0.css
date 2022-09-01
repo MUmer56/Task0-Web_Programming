@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;   
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    color: red;
+}
+
+#profile{
+     text-align: center;
+}
+
+#intro{
+    border-style: solid;
+    border-color: lightgreen;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
